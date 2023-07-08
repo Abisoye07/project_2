@@ -4,7 +4,9 @@
 `sudo apt install nginx`
 `sudo systemctl status nginx`
 
-![nginx status](./image/nginx-status.PNG)
+![nginx-status](images/nginx-status.png)
+
+
 Step 1 – Installing the Nginx Web Server
 In order to display web pages to our site visitors, we are going to employ Nginx, a high-performance web server. We’ll use the apt package manager to install this package.
 
